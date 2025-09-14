@@ -1,0 +1,6 @@
+telethon
+openai
+python-dotenv
+langdetect
+tqdm
+loguru
